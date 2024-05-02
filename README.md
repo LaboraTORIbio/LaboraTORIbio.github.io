@@ -59,7 +59,8 @@ For more information visit my [LinkedIn profile](https://www.linkedin.com/in/lau
 
 ##### [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) and [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
 
-Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**, as well as *de novo* genomic assemblies of reference genomes using **Unicycler** and **Flye**.
+* Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
+* Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
 
 
 # Publications
