@@ -2,6 +2,5 @@ theme: jekyll-theme-slate
 title: Laura Toribio Celestino
 description: Bioinformatics PhD Student
 show_downloads: true
-site:
-  github:
-    is_project_page: true
+github:
+  is_project_page: true
