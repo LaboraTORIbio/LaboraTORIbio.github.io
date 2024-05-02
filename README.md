@@ -1,6 +1,6 @@
 # Experience
 
-**Bioinformatics PhD Student** | Centro Nacional de Biotecnología-CSIC, Madrid, Spain | Feb. 2021 - Currently
+**Bioinformatics PhD Student** \| Centro Nacional de Biotecnología-CSIC, Madrid, Spain \| Feb. 2021 - Currently
 
 **Visiting PhD Student** | Institut Pasteur, Paris, France | Feb. 2022 - Mar. 2022
 
