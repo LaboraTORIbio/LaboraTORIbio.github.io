@@ -40,9 +40,9 @@ For more information visit my [LinkedIn profile](https://www.linkedin.com/in/lau
 
 # Projects
 
-## Bioinformatics
+### Bioinformatics
 
-#### [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
+##### [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
 * Generated high-quality closed reference genomes from Illumina and Nanopore reads, using tools like **Unicycler** or **Flye**.
 * Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts**, differential expression analysis with **DESeq2** and gene set enrichment analysis with **clusterProfiler**.
@@ -51,13 +51,13 @@ For more information visit my [LinkedIn profile](https://www.linkedin.com/in/lau
 * Performed ancestral character reconstruction with **PastML**.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-#### [Comparative genomic analysis and phylogenetic logistic regression](https://github.com/LaboraTORIbio/super-sinks)
+##### [Comparative genomic analysis and phylogenetic logistic regression](https://github.com/LaboraTORIbio/super-sinks)
 
 * Performed diverse comparative genomic analyses to identify genetic traits that could be associated to a certain phenotype, using tools like **MacSyFinder** or **BLAST**.
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-#### Other projects
+##### Other projects
 
 In projects [within_patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution) and [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48) I performed diverse analyses of genomic variants using tools like **snippy** and **breseq**, as well as *de novo* genomic assemblies of reference genomes.
 
