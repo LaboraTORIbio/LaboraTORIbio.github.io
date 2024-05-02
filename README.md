@@ -1,3 +1,12 @@
+# Technical skills
+
+* Python (pandas, numpy, scikit-learn)
+* R (ggplot2, tidyverse)
+* Git
+* Shell scripting (bash, awk, sed)
+* High Performance Computing (Slurm)
+
+
 # Experience
 
 **Bioinformatics PhD Student** \| Centro Nacional de Biotecnología-CSIC, Madrid, Spain \| Feb. 2021 - Currently
@@ -25,6 +34,10 @@ For more information visit my [LinkedIn profile](https://www.linkedin.com/in/lau
 
 
 # Projects
+
+### [RNA-Seq and phylogenetic analyses of enterobacteria](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
+
+### [Comparative genomic analysis and phylogenetic logistic regression](https://github.com/LaboraTORIbio/super-sinks)
 
 
 # Publications
