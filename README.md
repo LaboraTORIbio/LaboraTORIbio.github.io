@@ -14,28 +14,28 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 # Experience
 
-**Bioinformatics PhD Student** \| Centro Nacional de Biotecnología-CSIC, Madrid, Spain \| Feb. 2021 - Currently
+**Bioinformatics PhD Student** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
 
-**Visiting PhD Student** \| Institut Pasteur, Paris, France \| Feb. 2022 - Mar. 2022
+**Visiting PhD Student** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
 
-**Master Thesis Student** \| IRYCIS, Madrid, Spain \| Oct. 2019 - Feb. 2021
+**Master Thesis Student** @ IRYCIS, Madrid, Spain (Oct. 2019 - Feb. 2021)
 
-**Research Assistant** \| Ikan Biotech, Noain, Spain \| Nov. 2018 - Jun. 2019
+**Research Assistant** @ Ikan Biotech, Noain, Spain (Nov. 2018 - Jun. 2019)
 
-**Master Thesis Student** \| Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain \| Feb. 2018 - Sept. 2018
+**Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
 
-For more information visit my [LinkedIn profile](https://www.linkedin.com/in/laura-toribio-celestino/).
+For more information visit [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/).
 
 
 # Education
 
-**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** \| Universidad Autónoma de Madrid, Spain \| 2020 - Currently
+**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Currently)
 
-**MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** \| Universidad Pablo de Olavide de Sevilla, Spain \| 2018 - 2021
+**MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** @ Universidad Pablo de Olavide de Sevilla, Spain (2018 - 2021)
 
-**MSc in Biotechnology** \| Universidad Autónoma de Madrid, Spain \| 2017 - 2018
+**MSc in Biotechnology** @ Universidad Autónoma de Madrid, Spain (2017 - 2018)
 
-**BSc in Biology** \| Universidad de Alcalá de Henares, Spain \| 2012 - 2017
+**BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 - 2017)
 
 
 # Projects
