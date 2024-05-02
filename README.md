@@ -1,6 +1,6 @@
-Hi! I'm Laura Toribio (a.k.a. Tori). I'm a Bioinformatician with a nearly completed PhD and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic data visualization and presentation. 
+Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
 
-My growing interest for emerging technologies has led me to explore and learn Data Science. My aspiration is to merge Bioinformatics and Machine Learning, applied to biological processes, to foster progress in healthcare and life sciences.
+My growing interest for emerging technologies has led me to explore and learn **Data Science**. My aspiration is to merge Bioinformatics and **Machine Learning**, applied to biological processes, to foster progress in healthcare and life sciences.
 
 
 # Technical skills
@@ -40,7 +40,9 @@ For more information visit my [LinkedIn profile](https://www.linkedin.com/in/lau
 
 # Projects
 
-#### [RNA-Seq and phylogenetic analyses of enterobacteria](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
+## Bioinformatics
+
+#### [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
 * Generated high-quality closed reference genomes from Illumina and Nanopore reads, using tools like **Unicycler** or **Flye**.
 * Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts**, differential expression analysis with **DESeq2** and gene set enrichment analysis with **clusterProfiler**.
@@ -55,12 +57,15 @@ For more information visit my [LinkedIn profile](https://www.linkedin.com/in/lau
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
+#### Other projects
+
+In projects [within_patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution) and [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48) I performed diverse analyses of genomic variants using tools like **snippy** and **breseq**, as well as *de novo* genomic assemblies of reference genomes.
 
 # Publications
 
-* Blanco P, Hipólito A\*, García-Pastor L\*, Trigo da Roza F, **Toribio-Celestino L**, Ortega AC, Vergara E, San Millán Á, Escudero JA. Identification of promoter activity in gene-less cassettes from Vibrionaceae superintegrons. *Nucleic Acids Res*. 2024 Apr 12;52(6):2961-2976. doi: 10.1093/nar/gkad1252.
-* **Toribio-Celestino L\***, Alonso-Del Valle A\*, Quirant A, Pi CT, DelaFuente J, Canton R, Rocha EPC, Ubeda C, Peña-Miller R, San Millan A. Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria. *Proc Natl Acad Sci USA*. 2023 Dec 19;120(51):e2314135120. doi: 10.1073/pnas.2314135120.
-* **Toribio-Celestino L\***, Fernández-Calvet A\*, Alonso-Del Valle A, Sastre-Dominguez J, Valdes-Chiara P, San Millan A, DelaFuente J. The distribution of fitness effects of plasmid pOXA-48 in clinical enterobacteria. *Microbiology*. 2023 Jul;169(7):001369. doi: 10.1099/mic.0.001369.
-* DelaFuente J, **Toribio-Celestino L**, Santos-Lopez A, León-Sampedro R, Alonso-Del Valle A, Costas C, Hernández-García M, Cui L, Rodríguez-Beltrán J, Bikard D, Cantón R, San Millan A. Within-patient evolution of plasmid-mediated antimicrobial resistance. *Nat Ecol Evol*. 2022 Dec;6(12):1980-1991. doi: 10.1038/s41559-022-01908-7.
+* Blanco P, Hipólito A\*, García-Pastor L\*, Trigo da Roza F, **Toribio-Celestino L**, Ortega AC, Vergara E, San Millán Á, Escudero JA. Identification of promoter activity in gene-less cassettes from Vibrionaceae superintegrons. *Nucleic Acids Res*. 2024 Apr 12;52(6):2961-2976. doi: [10.1093/nar/gkad1252](https://academic.oup.com/nar/article/52/6/2961/7517494).
+* **Toribio-Celestino L\***, Alonso-Del Valle A\*, Quirant A, Pi CT, DelaFuente J, Canton R, Rocha EPC, Ubeda C, Peña-Miller R, San Millan A. Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria. *Proc Natl Acad Sci USA*. 2023 Dec 19;120(51):e2314135120. doi: [10.1073/pnas.2314135120](https://www.pnas.org/doi/abs/10.1073/pnas.2314135120).
+* **Toribio-Celestino L\***, Fernández-Calvet A\*, Alonso-Del Valle A, Sastre-Dominguez J, Valdes-Chiara P, San Millan A, DelaFuente J. The distribution of fitness effects of plasmid pOXA-48 in clinical enterobacteria. *Microbiology*. 2023 Jul;169(7):001369. doi: [10.1099/mic.0.001369](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001369).
+* DelaFuente J, **Toribio-Celestino L**, Santos-Lopez A, León-Sampedro R, Alonso-Del Valle A, Costas C, Hernández-García M, Cui L, Rodríguez-Beltrán J, Bikard D, Cantón R, San Millan A. Within-patient evolution of plasmid-mediated antimicrobial resistance. *Nat Ecol Evol*. 2022 Dec;6(12):1980-1991. doi: [10.1038/s41559-022-01908-7](https://www.nature.com/articles/s41559-022-01908-7).
 
 \* Contributed equally
