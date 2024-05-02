@@ -10,12 +10,14 @@
 
 **Master Thesis Student** \| Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain \| Feb. 2018 - Sept. 2018
 
+For more information visit my [LinkedIn profile](https://www.linkedin.com/in/laura-toribio-celestino/).
+
 
 # Education
 
-**PhD in Molecular Biosciences** - Bioinformatics and Systems Biology \| Universidad Autónoma de Madrid, Spain \| 2020 - Currently
+**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** \| Universidad Autónoma de Madrid, Spain \| 2020 - Currently
 
-**MSc in Advanced Bioinformatic Analysis** - NGS Data Analysis and Data Science \| Universidad Pablo de Olavide de Sevilla, Spain \| 2018 - 2021
+**MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** \| Universidad Pablo de Olavide de Sevilla, Spain \| 2018 - 2021
 
 **MSc in Biotechnology** \| Universidad Autónoma de Madrid, Spain \| 2017 - 2018
 
