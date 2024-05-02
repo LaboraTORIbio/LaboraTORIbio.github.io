@@ -24,4 +24,5 @@
 * **Toribio-Celestino L***, Alonso-Del Valle A*, Quirant A, Pi CT, DelaFuente J, Canton R, Rocha EPC, Ubeda C, Peña-Miller R, San Millan A. Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria. *Proc Natl Acad Sci USA*. 2023 Dec 19;120(51):e2314135120. doi: 10.1073/pnas.2314135120.
 * **Toribio-Celestino L***, Fernández-Calvet A*, Alonso-Del Valle A, Sastre-Dominguez J, Valdes-Chiara P, San Millan A, DelaFuente J. The distribution of fitness effects of plasmid pOXA-48 in clinical enterobacteria. *Microbiology*. 2023 Jul;169(7):001369. doi: 10.1099/mic.0.001369.
 * DelaFuente J, **Toribio-Celestino L**, Santos-Lopez A, León-Sampedro R, Alonso-Del Valle A, Costas C, Hernández-García M, Cui L, Rodríguez-Beltrán J, Bikard D, Cantón R, San Millan A. Within-patient evolution of plasmid-mediated antimicrobial resistance. *Nat Ecol Evol*. 2022 Dec;6(12):1980-1991. doi: 10.1038/s41559-022-01908-7.
+
 \* Contributed equally
