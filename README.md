@@ -24,7 +24,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 **Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
 
-For more information visit 🔗[**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
+For more information visit &ensp; 🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
 
 
 # Education
@@ -42,7 +42,7 @@ For more information visit 🔗[**my LinkedIn profile**](https://www.linkedin.co
 
 ### Bioinformatics
 
-##### 🔗[RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
+##### 🔗 [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
 * Generated high-quality closed reference genomes from Illumina and Nanopore reads, using tools like **Unicycler** or **Flye**.
 * Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts**, differential expression analysis with **DESeq2** and gene set enrichment analysis with **clusterProfiler**.
@@ -52,13 +52,13 @@ For more information visit 🔗[**my LinkedIn profile**](https://www.linkedin.co
 * Performed ancestral character reconstruction with **PastML**.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-##### 🔗[Comparative genomic analysis and phylogenetic logistic regression](https://github.com/LaboraTORIbio/super-sinks)
+##### 🔗 [Comparative genomic analysis and phylogenetic logistic regression](https://github.com/LaboraTORIbio/super-sinks)
 
 * Performed diverse comparative genomic analyses to identify genetic traits that could be associated to a certain phenotype, using tools like **MacSyFinder** or **BLAST**.
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-##### 🔗[Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) and 🔗[CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
+##### 🔗 [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) &ensp; and &ensp; 🔗 [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
 
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
