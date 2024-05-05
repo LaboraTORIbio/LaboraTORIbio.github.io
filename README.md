@@ -58,7 +58,7 @@ For more information visit 🔗 [**my LinkedIn profile**](https://www.linkedin.c
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-##### 🔗 [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) and 🔗 [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
+##### 🔗 [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution)  and  🔗 [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
 
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
