@@ -24,7 +24,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 **Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
 
-For more information visit &ensp; 🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
+For more information visit &nbsp; 🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
 
 
 # Education
@@ -58,7 +58,7 @@ For more information visit &ensp; 🔗 [**my LinkedIn profile**](https://www.lin
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-##### 🔗 [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) &ensp; and &ensp; 🔗 [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
+##### 🔗 [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) &nbsp; and &nbsp; 🔗 [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
 
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
