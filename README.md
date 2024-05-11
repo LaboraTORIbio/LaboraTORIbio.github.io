@@ -40,7 +40,9 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 # Projects
 
-### Bioinformatics
+{% tabs projects %}
+
+{% tab projects Bioinformatics%}
 
 ##### 🔗 [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
@@ -63,6 +65,13 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
 
+{% endtab %}
+
+{% tab projects Data Science %}
+
+{% endtab %}
+
+{% endtabs %}
 
 # Publications
 
