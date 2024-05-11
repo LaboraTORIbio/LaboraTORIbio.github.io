@@ -6,6 +6,8 @@ Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nea
 
 My growing interest for emerging technologies has led me to explore and learn **Data Science**. My aspiration is to merge Bioinformatics and **Machine Learning**, applied to biological processes, to foster progress in healthcare and life sciences.
 
+For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
+
 
 # Technical skills
 
@@ -14,32 +16,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Git
 * Shell scripting (bash, awk, sed)
 * High Performance Computing (Slurm)
-
-
-# Experience
-
-**Bioinformatics PhD Student** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
-
-**Visiting PhD Student** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
-
-**Master Thesis Student** @ IRYCIS, Madrid, Spain (Oct. 2019 - Feb. 2021)
-
-**Research Assistant** @ Ikan Biotech, Noain, Spain (Nov. 2018 - Jun. 2019)
-
-**Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
-
-For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
-
-
-# Education
-
-**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Currently)
-
-**MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** @ Universidad Pablo de Olavide de Sevilla, Spain (2018 - 2021)
-
-**MSc in Biotechnology** @ Universidad Autónoma de Madrid, Spain (2017 - 2018)
-
-**BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 - 2017)
 
 
 # Projects
@@ -76,6 +52,31 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 {% endtab %}
 
 {% endtabs %}
+
+
+# Experience
+
+**Bioinformatics PhD Student** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
+
+**Visiting PhD Student** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
+
+**Master Thesis Student** @ IRYCIS, Madrid, Spain (Oct. 2019 - Feb. 2021)
+
+**Research Assistant** @ Ikan Biotech, Noain, Spain (Nov. 2018 - Jun. 2019)
+
+**Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
+
+
+# Education
+
+**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Currently)
+
+**MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** @ Universidad Pablo de Olavide de Sevilla, Spain (2018 - 2021)
+
+**MSc in Biotechnology** @ Universidad Autónoma de Madrid, Spain (2017 - 2018)
+
+**BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 - 2017)
+
 
 # Publications
 
