@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<img align="right" width="100" hight="100" scr="/assets/images/profile_photo_circle.png">
+
+![image](/assets/images/profile_photo_circle.png){: style="float: right"}
 
 Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
 
