@@ -29,6 +29,12 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 {% tab all PROJECTS%}
 
+## Projects
+
+{% tabs proj %}
+
+{% tab proj Bioinformatics%}
+
 ##### 🔗 [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
 * Generated high-quality closed reference genomes from Illumina and Nanopore reads, using tools like **Unicycler** or **Flye**.
@@ -51,6 +57,12 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
 
 {% endtab %}
+
+{% tab proj Data Science %}
+
+{% endtab %}
+
+{% endtabs %}
 
 
 
@@ -94,7 +106,6 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 \* Contributed equally
 
 {% endtab %}
-
 
 
 {% endtabs %}
