@@ -1,17 +1,28 @@
 #header_wrap {
-    display: block
+    display: block;
+    padding-top: 10px; /* Reduce space at the top of the header */
+    padding-bottom: 10px; /* Reduce space at the bottom of the header */
 }
 
 #profile-photo {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -20px;
+    margin-top: -10px; /* Adjust this value to reduce space between top of the page and the logo */
 }
 
 #title-section {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px; /* Adjust this value to reduce space between logo and title */
+    margin-bottom: 10px; /* Adjust this value to reduce space between the description and the bottom of the header */
+}
+
+h1#project_title {
+    margin-bottom: 5px; /* Reduce space between title and description */
+}
+
+h2#project_tagline {
+    margin-top: 5px; /* Further reduce space between title and description if needed */
 }
 
 img {
