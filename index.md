@@ -11,6 +11,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
 
+<br>
 
 ## Technical skills
 
