@@ -25,4 +25,10 @@ img {
 element {
     padding-left: 0px;
     padding-right: 0px;
+    padding-bottom: 5px;
+}
+
+.tab > * > a {
+    font-size: 18px;
+    border-bottom: 3px solid transparent;
   }
