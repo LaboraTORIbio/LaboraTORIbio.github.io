@@ -3,10 +3,6 @@ layout: default
 ---
 
 
-{% tabs all %}
-
-{% tab all ABOUT ME%}
-
 <img src="/assets/images/profile_photo_circle.png" style="float: right; width: 170px;">
 
 Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
@@ -23,11 +19,9 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 * Shell scripting (bash, awk, sed)
 * High Performance Computing (Slurm)
 
-{% endtab %}
 
 
 
-{% tab all PROJECTS%}
 
 ## Projects
 
@@ -58,16 +52,16 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 {% endtab %}
 
-{% tab proj Data Science %}
+
+{% tab proj Data Science%}
 
 {% endtab %}
 
-{% endtabs %}
-{% endtab %}
 
 
 
-{% tab all EXPERIENCE%}
+
+## Experience
 
 **Bioinformatics PhD Student** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
 
@@ -79,11 +73,11 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 **Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
 
-{% endtab %}
 
 
 
-{% tab all EDUCATION%}
+
+## Education
 
 **PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Currently)
 
@@ -93,11 +87,11 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 **BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 - 2017)
 
-{% endtab %}
 
 
 
-{% tab all PUBLICATIONS%}
+
+## Publications
 
 * Blanco P, Hipólito A\*, García-Pastor L\*, Trigo da Roza F, **Toribio-Celestino L**, Ortega AC, Vergara E, San Millán Á, Escudero JA. Identification of promoter activity in gene-less cassettes from Vibrionaceae superintegrons. *Nucleic Acids Res*. 2024 Apr 12;52(6):2961-2976. doi: [10.1093/nar/gkad1252](https://academic.oup.com/nar/article/52/6/2961/7517494).
 * **Toribio-Celestino L\***, Alonso-Del Valle A\*, Quirant A, Pi CT, DelaFuente J, Canton R, Rocha EPC, Ubeda C, Peña-Miller R, San Millan A. Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria. *Proc Natl Acad Sci USA*. 2023 Dec 19;120(51):e2314135120. doi: [10.1073/pnas.2314135120](https://www.pnas.org/doi/abs/10.1073/pnas.2314135120).
@@ -105,8 +99,3 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 * DelaFuente J, **Toribio-Celestino L**, Santos-Lopez A, León-Sampedro R, Alonso-Del Valle A, Costas C, Hernández-García M, Cui L, Rodríguez-Beltrán J, Bikard D, Cantón R, San Millan A. Within-patient evolution of plasmid-mediated antimicrobial resistance. *Nat Ecol Evol*. 2022 Dec;6(12):1980-1991. doi: [10.1038/s41559-022-01908-7](https://www.nature.com/articles/s41559-022-01908-7).
 
 \* Contributed equally
-
-{% endtab %}
-
-
-{% endtabs %}
