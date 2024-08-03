@@ -1,22 +1,19 @@
 #header_wrap {
+    display: block
+}
+
+#profile-photo {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
-}
-
-#header_wrap .inner {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-#profile-photo img {
-    display: block;
-    margin: 0 auto;
 }
 
 #title-section {
     text-align: center;
-    margin-top: 20px; /* Add some space between the profile photo and title section */
+}
+
+img {
+    border: 0px solid #ebebeb;
+    box-shadow: 0 0 0px #ebebeb;
+    -webkit-box-shadow: 0 0 0px #ebebeb;
 }
