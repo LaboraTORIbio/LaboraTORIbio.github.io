@@ -22,13 +22,10 @@ img {
     max-width: 50%;
 }
 
-element {
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-bottom: 5px;
-}
-
 .tab > * > a {
-    font-size: 16px;
+    font-size: 17px;
     border-bottom: 3px solid transparent;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
   }
