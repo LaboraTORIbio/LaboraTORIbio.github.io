@@ -1,0 +1,9 @@
+#profile-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title-section {
+    text-align: center;
+}
