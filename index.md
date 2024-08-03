@@ -20,7 +20,7 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 * Shell scripting (bash, awk, sed)
 * High Performance Computing (Slurm)
 
-
+<br>
 
 
 
@@ -60,7 +60,7 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 {% endtabs %}
 
-
+<br>
 
 
 
@@ -76,7 +76,7 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 **Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
 
-
+<br>
 
 
 
@@ -90,7 +90,7 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 **BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 - 2017)
 
-
+<br>
 
 
 
