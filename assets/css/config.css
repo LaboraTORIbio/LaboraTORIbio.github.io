@@ -1,14 +1,14 @@
 #header_wrap {
     display: block;
-    padding-top: 10px; /* Reduce space at the top of the header */
-    padding-bottom: 10px; /* Reduce space at the bottom of the header */
+    padding-top: 3px; /* Reduce space at the top of the header */
+    padding-bottom: 3px; /* Reduce space at the bottom of the header */
 }
 
 #profile-photo {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -10px; /* Adjust this value to reduce space between top of the page and the logo */
+    margin-top: 0px; /* Adjust this value to reduce space between top of the page and the logo */
 }
 
 #title-section {
