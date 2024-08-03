@@ -11,6 +11,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
 
+
 ## Technical skills
 
 * Python (pandas, numpy, scikit-learn)
@@ -25,9 +26,9 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 ## Projects
 
-{% tabs proj %}
+{% tabs projects %}
 
-{% tab proj Bioinformatics%}
+{% tab projects Bioinformatics%}
 
 ##### 🔗 [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
@@ -53,9 +54,11 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 {% endtab %}
 
 
-{% tab proj Data Science%}
+{% tab projects Data Science %}
 
 {% endtab %}
+
+{% endtabs %}
 
 
 
