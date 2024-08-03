@@ -1,15 +1,20 @@
 #header_wrap {
-    display: block
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
 }
 
 #profile-photo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-top: -35px;
+    flex-shrink: 0;
 }
 
 #title-section {
-    text-align: center;
+    margin-top: 0;
+    margin-bottom: -30px;
+    text-align: right;
+    flex-grow: 1;
 }
 
 img {
@@ -19,10 +24,12 @@ img {
 }
 
 .inner {
-    max-width: 50%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
 }
 
 element {
     padding-left: 0px;
     padding-right: 0px;
-  }
+}
