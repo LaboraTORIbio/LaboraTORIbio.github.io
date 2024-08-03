@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="right" width="100" hight="100" scr="https://media.licdn.com/dms/image/D4D03AQFJ1kzh7s32jw/profile-displayphoto-shrink_200_200/0/1713005212907?e=1727913600&v=beta&t=egx90NvTUTo5nUHogWuInFWAuYq_4UjdMS5duxSAS3Y">
+<img align="right" width="100" hight="100" scr="/assets/images/profile_photo_circle.png">
 
 Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
 
