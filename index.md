@@ -62,6 +62,8 @@ For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.link
 
 {% endtab %}
 
+{% endtabs %}
+{% endtab %}
 
 
 
