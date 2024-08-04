@@ -1,0 +1,21 @@
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-div {
+    padding: 12px;
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+.link {
+    display: flex;
+}
+
+.icon {
+    flex: 1;
+    max-width: 100%;
+}
