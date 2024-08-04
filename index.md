@@ -30,31 +30,69 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Bioinformatics%}
 
-##### 🔗 [RNA-Seq and large phylogenetic analyses](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48)
 
-* Generated high-quality closed reference genomes from Illumina and Nanopore reads, using tools like **Unicycler** or **Flye**.
-* Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts**, differential expression analysis with **DESeq2** and gene set enrichment analysis with **clusterProfiler**.
-* Performed **PCA** and **t-SNE** to identify clusters of bacterial strains with similar transcriptional profiles.
+#### Transcriptomic analyses
+
+* Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts** and differential expression analysis with **DESeq2**.
+* Performed gene set enrichment analysis (GSEA) with **clusterProfiler**.
+* Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
+
+&nbsp;&nbsp;🔗 [RNA-Seq_1st_dataset](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_1st_dataset/RNA-Seq_1st_dataset.md)
+&nbsp;&nbsp;🔗 [RNA-Seq_DeltaLysR](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_DeltaLysR/RNA-Seq_2nd_dataset.md)
+&nbsp;&nbsp;🔗 [RNA-Seq_experimental_evolution](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_experimental_evolution/RNA-Seq_experimental_evolution.md)
+
+
+
+#### Ancestral character reconstruction
+
 * Downloaded and analyzed a large **RefSeq database** of bacterial genomes.
 * Constructed large bacterial phylogenies using **IQ-TREE** from genetic markers identified with Hidden Markov Models (**hmmsearch**).
 * Performed ancestral character reconstruction with **PastML**.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-##### 🔗 [Comparative genomic analysis and phylogenetic logistic regression](https://github.com/LaboraTORIbio/super-sinks)
+&nbsp;&nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
+
+
+
+#### Comparative genomic analysis and phylogenetic logistic regression
 
 * Performed diverse comparative genomic analyses to identify genetic traits that could be associated to a certain phenotype, using tools like **MacSyFinder** or **BLAST**.
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-##### 🔗 [Within-patient evolution](https://github.com/LaboraTORIbio/within_patient_evolution) &nbsp;and &nbsp;🔗 [CRISPR-cured pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48)
+&nbsp;&nbsp;🔗 [Super-sinks](https://github.com/LaboraTORIbio/super-sinks)
+
+
+
+#### Variant calling
 
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
+
+&nbsp;&nbsp;🔗 [Closing_reference_genomes](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/Genome_assemblies/closing_reference_genomes.md)
+&nbsp;&nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
+&nbsp;&nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
+
 
 {% endtab %}
 
 
 {% tab projects Data Science %}
+
+
+#### Generalized additive model
+
+* Constructed a **GAM** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
+
+&nbsp;&nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
+
+
+#### Dimensionality reduction and hierarchical clustering
+
+* Performed **PCA**, **t-SNE** and **hierarchical clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
+
+&nbsp;&nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
+
 
 {% endtab %}
 
