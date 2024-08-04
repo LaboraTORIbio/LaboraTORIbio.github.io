@@ -1,3 +1,7 @@
+- name: email
+  url-scheme: 'mailto:'
+  icon: mail
+
 - name: github
   url-prefix: github.com/
   url-scheme: https://
@@ -5,7 +9,3 @@
 - name: linkedin
   url-prefix: linkedin.com/in/
   url-scheme: https://
-
-- name: email
-  url-scheme: 'mailto:'
-  icon: mail
