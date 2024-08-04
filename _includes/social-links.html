@@ -1,13 +1,6 @@
 <div class="social-links">
 {% assign links = '' | split: '' %}
-{% if site.social-links-order %}
-    {% for link in site.social-links-order %}
-        {% assign link-elem = site.data.social-links | where: "name", link %}
-        {% assign links = links | concat: link-elem %}
-    {% endfor %}
-{% else %}
-    {% assign links = site.data.social-links %}
-{% endif %}
+{% assign links = site.data.social-links %}
 
 {% for link in links %}
     {% assign link-username = site[link.name] %}
