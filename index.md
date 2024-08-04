@@ -37,9 +37,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Performed gene set enrichment analysis (GSEA) with **clusterProfiler**.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-&nbsp;&nbsp;🔗 [RNA-Seq_1st_dataset](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_1st_dataset/RNA-Seq_1st_dataset.md)
-&nbsp;&nbsp;🔗 [RNA-Seq_DeltaLysR](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_DeltaLysR/RNA-Seq_2nd_dataset.md)
-&nbsp;&nbsp;🔗 [RNA-Seq_experimental_evolution](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_experimental_evolution/RNA-Seq_experimental_evolution.md)
+&nbsp;🔗 [RNA-Seq_1st_dataset](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_1st_dataset/RNA-Seq_1st_dataset.md)
+&nbsp;🔗 [RNA-Seq_DeltaLysR](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_DeltaLysR/RNA-Seq_2nd_dataset.md)
+&nbsp;🔗 [RNA-Seq_experimental_evolution](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_experimental_evolution/RNA-Seq_experimental_evolution.md)
 
 
 
@@ -50,7 +50,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Performed ancestral character reconstruction with **PastML**.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-&nbsp;&nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
+&nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
 
 
 
@@ -60,7 +60,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
-&nbsp;&nbsp;🔗 [Super-sinks](https://github.com/LaboraTORIbio/super-sinks)
+&nbsp;🔗 [Super-sinks](https://github.com/LaboraTORIbio/super-sinks)
 
 
 
@@ -69,9 +69,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
 
-&nbsp;&nbsp;🔗 [Closing_reference_genomes](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/Genome_assemblies/closing_reference_genomes.md)
-&nbsp;&nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
-&nbsp;&nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
+&nbsp;🔗 [Closing_reference_genomes](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/Genome_assemblies/closing_reference_genomes.md)
+&nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
+&nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
 
 
 {% endtab %}
@@ -80,18 +80,18 @@ My growing interest for emerging technologies has led me to explore and learn **
 {% tab projects Data Science %}
 
 
-#### Generalized additive model
+#### Generalized additive models
 
-* Constructed a **GAM** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
+* Constructed two **GAMs** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
 
-&nbsp;&nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
+&nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
 
 
 #### Dimensionality reduction and hierarchical clustering
 
 * Performed **PCA**, **t-SNE** and **hierarchical clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
 
-&nbsp;&nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
+&nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
 
 
 {% endtab %}
