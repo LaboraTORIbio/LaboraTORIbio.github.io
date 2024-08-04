@@ -9,7 +9,6 @@ Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nea
 
 My growing interest for emerging technologies has led me to explore and learn **Data Science**. My aspiration is to merge Bioinformatics and **Machine Learning**, applied to biological processes, to foster progress in healthcare and life sciences.
 
-For more information visit &nbsp;🔗 [**my LinkedIn profile**](https://www.linkedin.com/in/laura-toribio-celestino/)!
 
 <br>
 
