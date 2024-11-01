@@ -79,6 +79,15 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Data Science %}
 
+#### Life expectancy prediction
+
+* Deployed a robust regression model to predict the life expectancy of a population, achieving a high model accuracy, with an average prediction error of 2.8 years.
+* Performed exploratory data analysis and preprocessing (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, improving the dataset quality.
+* Trained and simultaneously fine-tuned different ML models (linear regressions, decision trees and ensemble methods), using scikit-learn, to predict the life expectancy of a given country, accounting for the time-series nature of the dataset.
+* Model containerization and deployment with Docker and Flask.
+
+&nbsp;🔗 [Life expectancy prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
+
 
 #### Generalized additive models
 
