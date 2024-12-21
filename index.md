@@ -54,7 +54,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
 
-<img src="/assets/images/proj_bcc.png">
+<img src="/assets/images/proj_bcc.png" style="width: 1700px;">
 
 
 #### Generalized additive models
