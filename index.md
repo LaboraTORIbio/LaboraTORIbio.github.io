@@ -31,6 +31,49 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tabs projects %}
 
+{% tab projects Data Science %}
+
+
+#### Life Expectancy Prediction
+
+* Deployed a robust regression model to predict the life expectancy of a population, achieving a high model accuracy, with an average prediction error of 2.8 years.
+* Performed exploratory data analysis and preprocessing (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, improving the dataset quality.
+* Trained and simultaneously fine-tuned different ML models (linear regressions, decision trees and ensemble methods), using scikit-learn, to predict the life expectancy of a given country, accounting for the time-series nature of the dataset.
+* Model containerization and deployment with Docker and Flask.
+
+&nbsp;🔗 [Life Expectancy Prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
+
+<img src="/assets/images/proj_lep.png">
+
+
+#### Breast Cancer Image Classifier
+
+* Developed a Convolutional Neural Network model to classify breast ultrasound images into normal, benign and malignant, achieving an overall 85% accuracy.
+* Performed transfer learning using TensorFlow and Keras, training a Neural Network on top of the ResNet50 architecture, with subsequent fine-tuning of the outer convolution layers to improve model accuracy.
+* Deployed the model as a web service through AWS Lambda and API Gateway, with the containerized model (Docker) uploaded in a AWS Elastic Container Registry.
+
+&nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
+
+<img src="/assets/images/proj_bcc.png">
+
+
+#### Generalized additive models
+
+* Constructed two **GAMs** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
+
+&nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
+
+
+#### Dimensionality reduction and hierarchical clustering
+
+* Performed **PCA**, **t-SNE** and **hierarchical clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
+
+&nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
+
+
+{% endtab %}
+
+
 {% tab projects Bioinformatics%}
 
 
@@ -45,7 +88,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 &nbsp;🔗 [RNA-Seq_experimental_evolution](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_experimental_evolution/RNA-Seq_experimental_evolution.md)
 
 
-
 #### Ancestral Character Reconstruction
 
 * Downloaded and analyzed a large **RefSeq database** of bacterial genomes.
@@ -54,7 +96,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
 &nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
-
 
 
 #### Comparative Genomic Analysis and Phylogenetic Logistic Regression
@@ -66,7 +107,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 &nbsp;🔗 [Super-sinks](https://github.com/LaboraTORIbio/super-sinks)
 
 
-
 #### Variant Calling
 
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
@@ -75,53 +115,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 &nbsp;🔗 [Closing_reference_genomes](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/Genome_assemblies/closing_reference_genomes.md)
 &nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
 &nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
-
-
-{% endtab %}
-
-
-{% tab projects Data Science %}
-
-
-
-#### Life Expectancy Prediction
-
-* Deployed a robust regression model to predict the life expectancy of a population, achieving a high model accuracy, with an average prediction error of 2.8 years.
-* Performed exploratory data analysis and preprocessing (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, improving the dataset quality.
-* Trained and simultaneously fine-tuned different ML models (linear regressions, decision trees and ensemble methods), using scikit-learn, to predict the life expectancy of a given country, accounting for the time-series nature of the dataset.
-* Model containerization and deployment with Docker and Flask.
-
-&nbsp;🔗 [Life Expectancy Prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
-
-<img src="/assets/images/proj_lep.png" style="float: right; width: 170px;">
-
-
-
-#### Breast Cancer Image Classifier
-
-* Developed a Convolutional Neural Network model to classify breast ultrasound images into normal, benign and malignant, achieving an overall 85% accuracy.
-* Performed transfer learning using TensorFlow and Keras, training a Neural Network on top of the ResNet50 architecture, with subsequent fine-tuning of the outer convolution layers to improve model accuracy.
-* Deployed the model as a web service through AWS Lambda and API Gateway, with the containerized model (Docker) uploaded in a AWS Elastic Container Registry.
-
-&nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
-
-<img src="/assets/images/proj_bcc.png" style="float: right; width: 170px;">
-
-
-
-#### Generalized additive models
-
-* Constructed two **GAMs** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
-
-&nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
-
-
-
-#### Dimensionality reduction and hierarchical clustering
-
-* Performed **PCA**, **t-SNE** and **hierarchical clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
-
-&nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
 
 
 {% endtab %}
