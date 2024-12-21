@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="/assets/images/profile_photo_circle.png" style="float: right; width: 170px;">
+<img src="/assets/images/profile_photo_circle2.png" style="float: right; width: 170px;">
 
 Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
 
@@ -93,6 +93,8 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [Life Expectancy Prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
 
+<img src="/assets/images/proj_lep.png" style="float: right; width: 170px;">
+
 
 
 #### Breast Cancer Image Classifier
@@ -102,6 +104,8 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Deployed the model as a web service through AWS Lambda and API Gateway, with the containerized model (Docker) uploaded in a AWS Elastic Container Registry.
 
 &nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
+
+<img src="/assets/images/proj_bcc.png" style="float: right; width: 170px;">
 
 
 
