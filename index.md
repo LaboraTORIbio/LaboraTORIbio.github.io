@@ -14,11 +14,14 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Technical skills
 
-* Python (pandas, numpy, scikit-learn)
-* R (ggplot2, tidyverse)
-* Git
-* Shell scripting (bash, awk, sed)
-* High Performance Computing (Slurm)
+* Python: pandas, numpy, matplotlib, plotly
+* Data Science: scikit-learn, TensorFlow, Keras
+* Shell scripting: bash, awk, sed
+* Containerization: Docker
+* Amazon Web Services: AWS Lambda, API Gateway, Elastic Container Registry
+* High Performance Computing (HPC)
+* R: ggplot2, tidyverse
+* Git & Github
 
 <br>
 
@@ -31,7 +34,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 {% tab projects Bioinformatics%}
 
 
-#### Transcriptomic analyses
+#### Transcriptomic Analyses
 
 * Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts** and differential expression analysis with **DESeq2**.
 * Performed gene set enrichment analysis (GSEA) with **clusterProfiler**.
@@ -43,7 +46,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 
 
-#### Ancestral character reconstruction
+#### Ancestral Character Reconstruction
 
 * Downloaded and analyzed a large **RefSeq database** of bacterial genomes.
 * Constructed large bacterial phylogenies using **IQ-TREE** from genetic markers identified with Hidden Markov Models (**hmmsearch**).
@@ -54,7 +57,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 
 
-#### Comparative genomic analysis and phylogenetic logistic regression
+#### Comparative Genomic Analysis and Phylogenetic Logistic Regression
 
 * Performed diverse comparative genomic analyses to identify genetic traits that could be associated to a certain phenotype, using tools like **MacSyFinder** or **BLAST**.
 * Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
@@ -64,7 +67,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 
 
-#### Variant calling
+#### Variant Calling
 
 * Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
 * Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
@@ -79,14 +82,27 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Data Science %}
 
-#### Life expectancy prediction
+
+
+#### Life Expectancy Prediction
 
 * Deployed a robust regression model to predict the life expectancy of a population, achieving a high model accuracy, with an average prediction error of 2.8 years.
 * Performed exploratory data analysis and preprocessing (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, improving the dataset quality.
 * Trained and simultaneously fine-tuned different ML models (linear regressions, decision trees and ensemble methods), using scikit-learn, to predict the life expectancy of a given country, accounting for the time-series nature of the dataset.
 * Model containerization and deployment with Docker and Flask.
 
-&nbsp;🔗 [Life expectancy prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
+&nbsp;🔗 [Life Expectancy Prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
+
+
+
+#### Breast Cancer Image Classifier
+
+* Developed a Convolutional Neural Network model to classify breast ultrasound images into normal, benign and malignant, achieving an overall 85% accuracy.
+* Performed transfer learning using TensorFlow and Keras, training a Neural Network on top of the ResNet50 architecture, with subsequent fine-tuning of the outer convolution layers to improve model accuracy.
+* Deployed the model as a web service through AWS Lambda and API Gateway, with the containerized model (Docker) uploaded in a AWS Elastic Container Registry.
+
+&nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
+
 
 
 #### Generalized additive models
@@ -94,6 +110,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Constructed two **GAMs** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
 
 &nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
+
 
 
 #### Dimensionality reduction and hierarchical clustering
@@ -113,15 +130,18 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Experience
 
-**Bioinformatics PhD Student** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
+**Bioinformatics Scientist** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
 
-**Visiting PhD Student** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
+**Visiting Scientist** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
 
-**Master Thesis Student** @ IRYCIS, Madrid, Spain (Oct. 2019 - Feb. 2021)
+**Junior Bioinformatics Scientist** @ IRYCIS, Madrid, Spain (Oct. 2019 - Feb. 2021)
 
 **Research Assistant** @ Ikan Biotech, Noain, Spain (Nov. 2018 - Jun. 2019)
 
-**Master Thesis Student** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
+**Junior Research Scientist** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
+
+**Junior Clinical Scientist** @ Hospital Universitario de Guadalajara, Guadalajara, Spain (Feb. 2017 - Jun. 2017)
+
 
 <br>
 
