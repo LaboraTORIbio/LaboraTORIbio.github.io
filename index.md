@@ -33,6 +33,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Data Science %}
 
+<br>
 
 ### Life Expectancy Prediction
 
@@ -45,6 +46,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 <img src="/assets/images/proj_lep.png">
 
+<br>
 
 ### Breast Cancer Image Classifier
 
@@ -54,8 +56,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
 
-<img src="/assets/images/proj_bcc.png" style="width: 500px;">
+<img src="/assets/images/proj_bcc.png" style="width: 600px;">
 
+<br>
 
 ### Generalized Additive Models (GAMs)
 
@@ -63,8 +66,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
 
-<img src="/assets/images/bioinfo_GAM.png" style="width: 600px;">
+<img src="/assets/images/bioinfo_GAM.png" style="width: 650px;">
 
+<br>
 
 ### Dimensionality Reduction and Hierarchical Clustering
 
@@ -80,6 +84,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Bioinformatics%}
 
+<br>
 
 ### Transcriptomic Analyses
 
@@ -93,6 +98,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 <img src="/assets/images/bioinfo_transcriptomics.png">
 
+<br>
 
 ### Ancestral Character Reconstruction
 
@@ -103,8 +109,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
 
-<img src="/assets/images/bioinfo_acr.png">
+<img src="/assets/images/bioinfo_acr.png" style="width: 700px;">
 
+<br>
 
 ### Comparative Genomic Analysis and Phylogenetic Logistic Regression
 
@@ -114,8 +121,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [Super-sinks](https://github.com/LaboraTORIbio/super-sinks)
 
-<img src="/assets/images/bioinfo_wGRR.png" style="width: 500px;">
+<img src="/assets/images/bioinfo_wGRR.png" style="width: 400px;">
 
+<br>
 
 ### Variant Calling
 
@@ -126,7 +134,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 &nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
 &nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
 
-<img src="/assets/images/bioinfo_vc.png" style="width: 300px;">
+<img src="/assets/images/bioinfo_vc.png" style="width: 350px;">
 
 
 {% endtab %}
