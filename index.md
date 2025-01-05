@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="/assets/images/profile_photo_circle2.png" style="float: right; width: 170px;">
+<img src="/assets/images/profile_photo_circle_bk.png" style="float: right; width: 170px;">
 
 Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in **analyzing multi-omics biological data**. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
 
@@ -33,7 +33,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Data Science %}
 
-<br>
 
 ### Life Expectancy Prediction
 
@@ -56,7 +55,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
 
-<img src="/assets/images/proj_bcc.png" style="width: 600px;">
+<img src="/assets/images/proj_bcc.png" style="width: 550px;">
 
 <br>
 
@@ -84,7 +83,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 {% tab projects Bioinformatics%}
 
-<br>
 
 ### Transcriptomic Analyses
 
@@ -109,7 +107,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 &nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
 
-<img src="/assets/images/bioinfo_acr.png" style="width: 700px;">
+<img src="/assets/images/bioinfo_acr.png" style="width: 600px;">
 
 <br>
 
@@ -134,7 +132,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 &nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
 &nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
 
-<img src="/assets/images/bioinfo_vc.png" style="width: 350px;">
+<img src="/assets/images/bioinfo_vc.png" style="width: 320px;">
 
 
 {% endtab %}
