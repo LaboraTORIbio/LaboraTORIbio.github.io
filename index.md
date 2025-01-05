@@ -21,7 +21,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 * **Amazon Web Services:** AWS Lambda, API Gateway, Elastic Container Registry
 * **High Performance Computing** (HPC)
 * **R:** ggplot2, tidyverse
-* **Git & Github**
+* **Git** & **Github**
 
 <br>
 
@@ -34,7 +34,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 {% tab projects Data Science %}
 
 
-#### Life Expectancy Prediction
+### Life Expectancy Prediction
 
 * **Deployed a robust regression model** to predict the life expectancy of a population, achieving a **high model accuracy**, with an average prediction error of 2.8 years.
 * Performed **exploratory data analysis and preprocessing** (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, **improving the dataset quality**.
@@ -46,7 +46,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 <img src="/assets/images/proj_lep.png">
 
 
-#### Breast Cancer Image Classifier
+### Breast Cancer Image Classifier
 
 * Developed a **Convolutional Neural Network** model to classify breast ultrasound images into normal, benign and malignant, achieving an overall **85% accuracy**.
 * Performed transfer learning using **TensorFlow** and **Keras**, training a Neural Network on top of the ResNet50 architecture, with subsequent **fine-tuning** of the outer convolution layers to improve model accuracy.
@@ -57,18 +57,18 @@ My growing interest for emerging technologies has led me to explore and learn **
 <img src="/assets/images/proj_bcc.png" style="width: 500px;">
 
 
-#### Generalized Additive Models (GAMs)
+### Generalized Additive Models (GAMs)
 
-* Constructed two **GAMs** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
+* Constructed two **GAMs** with the **R** package *mgcv* to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
 
 &nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
 
-<img src="/assets/images/bioinfo_GAM.png" style="width: 500px;">
+<img src="/assets/images/bioinfo_GAM.png" style="width: 600px;">
 
 
-#### Dimensionality Reduction and Hierarchical Clustering
+### Dimensionality Reduction and Hierarchical Clustering
 
-* Performed **PCA**, **t-SNE** and **hierarchical clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
+* Performed **PCA**, **t-SNE** and **Hierarchical Clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
 
 &nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
 
@@ -81,44 +81,52 @@ My growing interest for emerging technologies has led me to explore and learn **
 {% tab projects Bioinformatics%}
 
 
-#### Transcriptomic Analyses
+### Transcriptomic Analyses
 
-* Developed a standard workflow for RNA-Seq data analysis in **R**, including read count with **featureCounts** and differential expression analysis with **DESeq2**.
-* Performed gene set enrichment analysis (GSEA) with **clusterProfiler**.
+* Developed a standard workflow for **RNA-Seq data analysis** in **R**, including read count with *featureCounts* and differential expression analysis with *DESeq2* (see Hierarchichal Clustering).
+* Performed **gene set enrichment analysis (GSEA)** with *clusterProfiler*.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
 &nbsp;🔗 [RNA-Seq_1st_dataset](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_1st_dataset/RNA-Seq_1st_dataset.md)
 &nbsp;🔗 [RNA-Seq_DeltaLysR](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_DeltaLysR/RNA-Seq_2nd_dataset.md)
 &nbsp;🔗 [RNA-Seq_experimental_evolution](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/RNA-Seq_experimental_evolution/RNA-Seq_experimental_evolution.md)
 
+<img src="/assets/images/bioinfo_transcriptomics.png">
 
-#### Ancestral Character Reconstruction
 
-* Downloaded and analyzed a large **RefSeq database** of bacterial genomes.
-* Constructed large bacterial phylogenies using **IQ-TREE** from genetic markers identified with Hidden Markov Models (**hmmsearch**).
-* Performed ancestral character reconstruction with **PastML**.
+### Ancestral Character Reconstruction
+
+* Downloaded and analyzed a **large RefSeq database** of bacterial genomes.
+* Constructed **large bacterial phylogenies** using *IQ-TREE* from genetic markers identified with **Hidden Markov Models** (*hmmsearch*).
+* Performed **ancestral character reconstruction** with *PastML*, gaining insights into the ancestry of a genetic trait.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
 &nbsp;🔗 [LysR_and_the_mystery_operon](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/LysR_and_the_mystery_operon/LysR_and_the_mystery_operon.md)
 
+<img src="/assets/images/bioinfo_acr.png">
 
-#### Comparative Genomic Analysis and Phylogenetic Logistic Regression
 
-* Performed diverse comparative genomic analyses to identify genetic traits that could be associated to a certain phenotype, using tools like **MacSyFinder** or **BLAST**.
-* Analyzed the potential associations with Fisher's exact tests and phylogenetic logistic regression (**phyloglm**) to account for phylogenetic dependency.
+### Comparative Genomic Analysis and Phylogenetic Logistic Regression
+
+* Performed diverse comparative genomic analyses to **identify genetic traits** that could be **associated to a certain phenotype**, using tools like *MacSyFinder* or *BLAST*.
+* Analyzed the potential associations with **Fisher's exact tests** and **phylogenetic logistic regression** (*phyloglm* in **R**) to account for phylogenetic dependency.
 * Wrote **Shell** (documented in MarkDown files) and **Python** scripts for manipulating/filtering output files used as input in downstream steps of the pipeline.
 
 &nbsp;🔗 [Super-sinks](https://github.com/LaboraTORIbio/super-sinks)
 
+<img src="/assets/images/bioinfo_wGRR.png" style="width: 500px;">
 
-#### Variant Calling
 
-* Constructed *de novo* genomic assemblies using **SPAdes**, **Unicycler** and **Flye**.
-* Performed diverse analyses of genomic variants using tools like **snippy** and **breseq**.
+### Variant Calling
+
+* Constructed ***de novo* genomic assemblies** using *SPAdes*, *Unicycler* and *Flye*.
+* Performed diverse **analyses of genomic variants** using tools like *snippy* and *breseq*.
 
 &nbsp;🔗 [Closing_reference_genomes](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/Genome_assemblies/closing_reference_genomes.md)
 &nbsp;🔗 [Within-patient_evolution](https://github.com/LaboraTORIbio/within_patient_evolution/blob/main/within_patient_evolution.md)
 &nbsp;🔗 [CRISPR_cured_pOXA-48](https://github.com/LaboraTORIbio/CRISPR_cured_pOXA-48/blob/main/CRISPR_cured_pOXA-48.md)
+
+<img src="/assets/images/bioinfo_vc.png" style="width: 300px;">
 
 
 {% endtab %}
@@ -131,7 +139,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Experience
 
-**Bioinformatics Scientist** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Currently)
+**Bioinformatics Scientist** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Present)
 
 **Visiting Scientist** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
 
@@ -150,7 +158,7 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Education
 
-**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Currently)
+**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Present)
 
 **MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** @ Universidad Pablo de Olavide de Sevilla, Spain (2018 - 2021)
 
@@ -164,7 +172,9 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Publications
 
-* Sastre-Dominguez J, DelaFuente J, **Toribio-Celestino L**, Herencias C, Herrador-Gomez P, Costas C, Hernandez-Garcia M, Canton R, Rodriguez-Beltran J, Santos-Lopez A, San Millan A. (2024) Plasmid-encoded insertion sequences promote rapid adaptation in clinical enterobacteria. __*Nat Ecol Evol*__. doi: [10.1038/s41559-024-02523-4](https://doi.org/10.1038/s41559-024-02523-4).
+* **Toribio-Celestino L\***, Calvo-Villamañán A*, Herencias C, Alonso-Del Valle A, Sastre-Dominguez J, Quesada S, Mazel D, Rocha EPC, Fernández-Calvet A, San Millan A. (2024) A plasmid-chromosome crosstalk in multidrug resistant enterobacteria. __*Nat Commun*__. 15(1):10859. doi: [10.1038/s41467-024-55169-y](https://doi.org/10.1038/s41467-024-55169-y).
+* Blanco P, Trigo da Roza F, **Toribio-Celestino L**, García-Pastor L, Caselli N, Morón Á, Ojeda F, Darracq B, Vergara E, Amaro F, San Millan A, Skovgaard O, Mazel D, Loot C, Escudero JA. (2024) Chromosomal integrons are genetically and functionally isolated units of genomes. __*Nucleic Acids Res*__. 52(20):12565-12581. doi: [10.1093/nar/gkae866](https://doi.org/10.1093/nar/gkae866).
+* Sastre-Dominguez J, DelaFuente J, **Toribio-Celestino L**, Herencias C, Herrador-Gomez P, Costas C, Hernandez-Garcia M, Canton R, Rodriguez-Beltran J, Santos-Lopez A, San Millan A. (2024) Plasmid-encoded insertion sequences promote rapid adaptation in clinical enterobacteria. __*Nat Ecol Evol*__. 8(11):2097-2112. doi: [10.1038/s41559-024-02523-4](https://doi.org/10.1038/s41559-024-02523-4).
 * Blanco P, Hipólito A\*, García-Pastor L\*, Trigo da Roza F, **Toribio-Celestino L**, Ortega AC, Vergara E, San Millán Á, Escudero JA. (2024) Identification of promoter activity in gene-less cassettes from Vibrionaceae superintegrons. __*Nucleic Acids Res*__. 52(6):2961-2976. doi: [10.1093/nar/gkad1252](https://academic.oup.com/nar/article/52/6/2961/7517494).
 * **Toribio-Celestino L\***, Alonso-Del Valle A\*, Quirant A, Pi CT, DelaFuente J, Canton R, Rocha EPC, Ubeda C, Peña-Miller R, San Millan A. (2023) Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria. __*Proc Natl Acad Sci USA*__. 120(51):e2314135120. doi: [10.1073/pnas.2314135120](https://www.pnas.org/doi/abs/10.1073/pnas.2314135120).
 * **Toribio-Celestino L\***, Fernández-Calvet A\*, Alonso-Del Valle A, Sastre-Dominguez J, Valdes-Chiara P, San Millan A, DelaFuente J. (2023) The distribution of fitness effects of plasmid pOXA-48 in clinical enterobacteria. __*Microbiology*__. 169(7):001369. doi: [10.1099/mic.0.001369](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001369).
