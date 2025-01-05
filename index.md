@@ -5,7 +5,7 @@ layout: default
 
 <img src="/assets/images/profile_photo_circle2.png" style="float: right; width: 170px;">
 
-Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in analyzing multi-omics biological data. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
+Hi! I'm Laura Toribio (a.k.a. **Tori**). I'm a **Bioinformatician** with a **nearly completed PhD** and over 4 years of hands-on experience in **analyzing multi-omics biological data**. I'm competent in Python, R and shell scripting, continuously enhancing my programming skills. Also hooked on aesthetic **data visualization** and presentation. 
 
 My growing interest for emerging technologies has led me to explore and learn **Data Science**. My aspiration is to merge Bioinformatics and **Machine Learning**, applied to biological processes, to foster progress in healthcare and life sciences.
 
@@ -14,14 +14,14 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Technical skills
 
-* Python: pandas, numpy, matplotlib, plotly
-* Data Science: scikit-learn, TensorFlow, Keras
-* Shell scripting: bash, awk, sed
-* Containerization: Docker
-* Amazon Web Services: AWS Lambda, API Gateway, Elastic Container Registry
-* High Performance Computing (HPC)
-* R: ggplot2, tidyverse
-* Git & Github
+* **Python:** pandas, numpy, matplotlib, plotly
+* **Data Science:** scikit-learn, TensorFlow, Keras
+* **Shell scripting:** bash, awk, sed
+* **Containerization:** Docker
+* **Amazon Web Services:** AWS Lambda, API Gateway, Elastic Container Registry
+* **High Performance Computing** (HPC)
+* **R:** ggplot2, tidyverse
+* **Git & Github**
 
 <br>
 
@@ -36,10 +36,10 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 #### Life Expectancy Prediction
 
-* Deployed a robust regression model to predict the life expectancy of a population, achieving a high model accuracy, with an average prediction error of 2.8 years.
-* Performed exploratory data analysis and preprocessing (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, improving the dataset quality.
-* Trained and simultaneously fine-tuned different ML models (linear regressions, decision trees and ensemble methods), using scikit-learn, to predict the life expectancy of a given country, accounting for the time-series nature of the dataset.
-* Model containerization and deployment with Docker and Flask.
+* **Deployed a robust regression model** to predict the life expectancy of a population, achieving a **high model accuracy**, with an average prediction error of 2.8 years.
+* Performed **exploratory data analysis and preprocessing** (feature selection, missing data imputation with MICE, data transformation, etc) of the WHO's Life Expectancy dataset, **improving the dataset quality**.
+* **Trained and simultaneously fine-tuned different ML models** (linear regressions, SVM, decision trees and ensemble methods), using **scikit-learn**, to predict the life expectancy of a given country, accounting for the time-series nature of the dataset.
+* Model containerization and deployment with **Docker** and **Flask**.
 
 &nbsp;🔗 [Life Expectancy Prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
 
@@ -48,27 +48,31 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 #### Breast Cancer Image Classifier
 
-* Developed a Convolutional Neural Network model to classify breast ultrasound images into normal, benign and malignant, achieving an overall 85% accuracy.
-* Performed transfer learning using TensorFlow and Keras, training a Neural Network on top of the ResNet50 architecture, with subsequent fine-tuning of the outer convolution layers to improve model accuracy.
-* Deployed the model as a web service through AWS Lambda and API Gateway, with the containerized model (Docker) uploaded in a AWS Elastic Container Registry.
+* Developed a **Convolutional Neural Network** model to classify breast ultrasound images into normal, benign and malignant, achieving an overall **85% accuracy**.
+* Performed transfer learning using **TensorFlow** and **Keras**, training a Neural Network on top of the ResNet50 architecture, with subsequent **fine-tuning** of the outer convolution layers to improve model accuracy.
+* Deployed the model as a web service through **AWS Lambda** and **API Gateway**, with the containerized model (**Docker**) uploaded in a **AWS Elastic Container Registry**.
 
 &nbsp;🔗 [Breast Cancer Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
 
 <img src="/assets/images/proj_bcc.png" style="width: 500px;">
 
 
-#### Generalized additive models
+#### Generalized Additive Models (GAMs)
 
 * Constructed two **GAMs** with the R package **mgcv** to assess the effect of the concentration of two treatments in the growth (measured as AUC of growth curves) of two bacterial strains, including interaction terms for the type of treatment and the genotype.
 
 &nbsp;🔗 [GAM](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/GAM.R)
 
+<img src="/assets/images/bioinfo_GAM.png" style="width: 500px;">
 
-#### Dimensionality reduction and hierarchical clustering
+
+#### Dimensionality Reduction and Hierarchical Clustering
 
 * Performed **PCA**, **t-SNE** and **hierarchical clustering** in **R** to identify clusters of bacterial strains with similar transcriptional profiles.
 
 &nbsp;🔗 [Dimensionality reduction and hierarchical clustering](https://github.com/LaboraTORIbio/RNA-Seq_enterobacteria_pOXA-48/blob/main/EDA_Stats_Figs/EDA_Stats_Figs.md#dimensionality-reduction-and-hierarchical-clustering)
+
+<img src="/assets/images/bioinfo_dim-red_hc.png">
 
 
 {% endtab %}
