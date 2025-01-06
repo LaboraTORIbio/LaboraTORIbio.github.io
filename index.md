@@ -44,6 +44,17 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 <br>
 
+### Breast Cancer Image Classifier
+
+* Developed a **Convolutional Neural Network** model to classify breast ultrasound images into normal, benign and malignant, achieving an overall **85% accuracy**.
+* Performed transfer learning using **TensorFlow** and **Keras**, training a Neural Network on top of the ResNet50 architecture, with subsequent **fine-tuning** of the outer convolution layers to improve model accuracy.
+* Deployed the model as a web service through **AWS Lambda** and **API Gateway**, with the containerized model (**Docker**) uploaded in a **AWS Elastic Container Registry**.
+* Repository link: [Breast Cancer Image Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
+
+<img src="/assets/images/proj_bcc.png" style="width: 550px;">
+
+<br>
+
 ### Life Expectancy Prediction
 
 * **Deployed a robust regression model** to predict the life expectancy of a population, achieving a **high model accuracy**, with an average prediction error of 2.8 years.
@@ -53,17 +64,6 @@ My growing interest for emerging technologies has led me to explore and learn **
 * Repository link: [Life Expectancy Prediction](https://github.com/LaboraTORIbio/life_expectancy_prediction)
 
 <img src="/assets/images/proj_lep.png">
-
-<br>
-
-### Breast Cancer Image Classifier
-
-* Developed a **Convolutional Neural Network** model to classify breast ultrasound images into normal, benign and malignant, achieving an overall **85% accuracy**.
-* Performed transfer learning using **TensorFlow** and **Keras**, training a Neural Network on top of the ResNet50 architecture, with subsequent **fine-tuning** of the outer convolution layers to improve model accuracy.
-* Deployed the model as a web service through **AWS Lambda** and **API Gateway**, with the containerized model (**Docker**) uploaded in a **AWS Elastic Container Registry**.
-* Repository link: [Breast Cancer Image Classifier](https://github.com/LaboraTORIbio/breast_cancer_classifier)
-
-<img src="/assets/images/proj_bcc.png" style="width: 550px;">
 
 <br>
 
