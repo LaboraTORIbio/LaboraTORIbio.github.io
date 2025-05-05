@@ -139,17 +139,17 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Experience
 
-**Bioinformatics Scientist** @ Centro Nacional de Biotecnología-CSIC, Madrid, Spain (Feb. 2021 - Present)
+**Bioinformatics Scientist** @ Centro Nacional de Biotecnología–CSIC, Madrid, Spain (Feb. 2021 – Present)
 
-**Visiting Scientist** @ Institut Pasteur, Paris, France (Feb. 2022 - Mar. 2022)
+**Visiting Scientist** @ Institut Pasteur, Paris, France (Feb. 2022 – Mar. 2022)
 
-**Junior Bioinformatics Scientist** @ IRYCIS, Madrid, Spain (Oct. 2019 - Feb. 2021)
+**Junior Bioinformatics Scientist** @ IRYCIS, Madrid, Spain (Oct. 2019 – Feb. 2021)
 
-**Research Assistant** @ Ikan Biotech, Noain, Spain (Nov. 2018 - Jun. 2019)
+**Research Assistant** @ Ikan Biotech, Noain, Spain (Nov. 2018 – Jun. 2019)
 
-**Junior Research Scientist** @ Centro de Biología Molecular Severo Ochoa-CSIC, Madrid, Spain (Feb. 2018 - Sept. 2018)
+**Junior Research Scientist** @ Centro de Biología Molecular Severo Ochoa–CSIC, Madrid, Spain (Feb. 2018 – Sept. 2018)
 
-**Junior Clinical Scientist** @ Hospital Universitario de Guadalajara, Guadalajara, Spain (Feb. 2017 - Jun. 2017)
+**Junior Clinical Scientist** @ Hospital Universitario de Guadalajara, Guadalajara, Spain (Feb. 2017 – Jun. 2017)
 
 
 <br>
@@ -158,13 +158,13 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Education
 
-**PhD in Molecular Biosciences - Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 - Present)
+**PhD in Molecular Biosciences – Bioinformatics and Systems Biology** @ Universidad Autónoma de Madrid, Spain (2020 – Present)
 
-**MSc in Advanced Bioinformatic Analysis - NGS Data Analysis and Data Science** @ Universidad Pablo de Olavide de Sevilla, Spain (2018 - 2021)
+**MSc in Advanced Bioinformatic Analysis – NGS Data Analysis and Data Science** @ Universidad Pablo de Olavide de Sevilla, Spain (2018 – 2021)
 
-**MSc in Biotechnology** @ Universidad Autónoma de Madrid, Spain (2017 - 2018)
+**MSc in Biotechnology** @ Universidad Autónoma de Madrid, Spain (2017 – 2018)
 
-**BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 - 2017)
+**BSc in Biology** @ Universidad de Alcalá de Henares, Spain (2012 – 2017)
 
 <br>
 
@@ -172,12 +172,15 @@ My growing interest for emerging technologies has led me to explore and learn **
 
 ## Publications
 
-* **Toribio-Celestino L\***, Calvo-Villamañán A*, Herencias C, Alonso-Del Valle A, Sastre-Dominguez J, Quesada S, Mazel D, Rocha EPC, Fernández-Calvet A, San Millan A. (2024) A plasmid-chromosome crosstalk in multidrug resistant enterobacteria. __*Nat Commun*__. 15(1):10859. doi: [10.1038/s41467-024-55169-y](https://doi.org/10.1038/s41467-024-55169-y).
+* **Toribio-Celestino L<sup>#</sup>**, San Millan A. (2025) Plasmid–bacteria associations in the clinical context. __*Trends Microbiol*__. *In press.*
+* **Toribio-Celestino L\***, Calvo-Villamañán A*, Herencias C, Alonso-Del Valle A, Sastre-Dominguez J, Quesada S, Mazel D, Rocha EPC, Fernández-Calvet A, San Millan A. (2024) A plasmid–chromosome crosstalk in multidrug resistant enterobacteria. __*Nat Commun*__. 15(1):10859. doi: [10.1038/s41467-024-55169-y](https://doi.org/10.1038/s41467-024-55169-y).
 * Blanco P, Trigo da Roza F, **Toribio-Celestino L**, García-Pastor L, Caselli N, Morón Á, Ojeda F, Darracq B, Vergara E, Amaro F, San Millan A, Skovgaard O, Mazel D, Loot C, Escudero JA. (2024) Chromosomal integrons are genetically and functionally isolated units of genomes. __*Nucleic Acids Res*__. 52(20):12565-12581. doi: [10.1093/nar/gkae866](https://doi.org/10.1093/nar/gkae866).
 * Sastre-Dominguez J, DelaFuente J, **Toribio-Celestino L**, Herencias C, Herrador-Gomez P, Costas C, Hernandez-Garcia M, Canton R, Rodriguez-Beltran J, Santos-Lopez A, San Millan A. (2024) Plasmid-encoded insertion sequences promote rapid adaptation in clinical enterobacteria. __*Nat Ecol Evol*__. 8(11):2097-2112. doi: [10.1038/s41559-024-02523-4](https://doi.org/10.1038/s41559-024-02523-4).
 * Blanco P, Hipólito A\*, García-Pastor L\*, Trigo da Roza F, **Toribio-Celestino L**, Ortega AC, Vergara E, San Millán Á, Escudero JA. (2024) Identification of promoter activity in gene-less cassettes from Vibrionaceae superintegrons. __*Nucleic Acids Res*__. 52(6):2961-2976. doi: [10.1093/nar/gkad1252](https://academic.oup.com/nar/article/52/6/2961/7517494).
 * Alonso-Del Valle A\*, **Toribio-Celestino L\***, Quirant A, Pi CT, DelaFuente J, Canton R, Rocha EPC, Ubeda C, Peña-Miller R, San Millan A. (2023) Antimicrobial resistance level and conjugation permissiveness shape plasmid distribution in clinical enterobacteria. __*Proc Natl Acad Sci USA*__. 120(51):e2314135120. doi: [10.1073/pnas.2314135120](https://www.pnas.org/doi/abs/10.1073/pnas.2314135120).
 * Fernández-Calvet A\*, **Toribio-Celestino L\***, Alonso-Del Valle A, Sastre-Dominguez J, Valdes-Chiara P, San Millan A, DelaFuente J. (2023) The distribution of fitness effects of plasmid pOXA-48 in clinical enterobacteria. __*Microbiology*__. 169(7):001369. doi: [10.1099/mic.0.001369](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001369).
 * DelaFuente J, **Toribio-Celestino L**, Santos-Lopez A, León-Sampedro R, Alonso-Del Valle A, Costas C, Hernández-García M, Cui L, Rodríguez-Beltrán J, Bikard D, Cantón R, San Millan A. (2022) Within-patient evolution of plasmid-mediated antimicrobial resistance. __*Nat Ecol Evol*__. 6(12):1980-1991. doi: [10.1038/s41559-022-01908-7](https://www.nature.com/articles/s41559-022-01908-7).
+
+<sup>#</sup> Corresponding author
 
 \* Contributed equally
